@@ -1,0 +1,16 @@
+C:\Users\noah0\source\repos\NetworkApplication\bin\Debug\net5.0\NetworkApplication.exe
+C:\Users\noah0\source\repos\NetworkApplication\bin\Debug\net5.0\NetworkApplication.deps.json
+C:\Users\noah0\source\repos\NetworkApplication\bin\Debug\net5.0\NetworkApplication.runtimeconfig.json
+C:\Users\noah0\source\repos\NetworkApplication\bin\Debug\net5.0\NetworkApplication.runtimeconfig.dev.json
+C:\Users\noah0\source\repos\NetworkApplication\bin\Debug\net5.0\NetworkApplication.dll
+C:\Users\noah0\source\repos\NetworkApplication\bin\Debug\net5.0\ref\NetworkApplication.dll
+C:\Users\noah0\source\repos\NetworkApplication\bin\Debug\net5.0\NetworkApplication.pdb
+C:\Users\noah0\source\repos\NetworkApplication\obj\Debug\net5.0\NetworkApplication.csprojAssemblyReference.cache
+C:\Users\noah0\source\repos\NetworkApplication\obj\Debug\net5.0\NetworkApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noah0\source\repos\NetworkApplication\obj\Debug\net5.0\NetworkApplication.AssemblyInfoInputs.cache
+C:\Users\noah0\source\repos\NetworkApplication\obj\Debug\net5.0\NetworkApplication.AssemblyInfo.cs
+C:\Users\noah0\source\repos\NetworkApplication\obj\Debug\net5.0\NetworkApplication.csproj.CoreCompileInputs.cache
+C:\Users\noah0\source\repos\NetworkApplication\obj\Debug\net5.0\NetworkApplication.dll
+C:\Users\noah0\source\repos\NetworkApplication\obj\Debug\net5.0\ref\NetworkApplication.dll
+C:\Users\noah0\source\repos\NetworkApplication\obj\Debug\net5.0\NetworkApplication.pdb
+C:\Users\noah0\source\repos\NetworkApplication\obj\Debug\net5.0\NetworkApplication.genruntimeconfig.cache
